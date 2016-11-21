@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush');
+
+body {
+  background-color: #222;
+  .google {
+  font-family: 'Alex Brush', cursive;
+  color: #e2e2e2
+  }
+}
+
+.header {
+  text-align: center;
+}
+  h1 {
+    font-size: 100px;
+  }
+
+
+.adjust {
+  display: inline-block;
+}
+.adjust {
+  text-align: center;
+  font-size: 0.5em;  
+}
+
+.adjust span {
+  color: #e2e2e2;
+}
+
+.clock {
+  position: relative;
